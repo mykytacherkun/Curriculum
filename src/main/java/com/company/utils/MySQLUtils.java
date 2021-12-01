@@ -12,10 +12,10 @@ public class MySQLUtils {
   
  public static Connection getMySQLConnection(UserAccount user)
          throws ClassNotFoundException, SQLException {
-	 String hostName = "sql7.freemysqlhosting.net";
-	 String dbName = "sql7339540";
-	 String userName = "sql7339540";
-	 String password = "VI4dihTP2f";
+	 String hostName = "sql11.freemysqlhosting.net";
+	 String dbName = "sql11455725";
+	 String userName = "sql11455725";
+	 String password = "Sl1SlYtxNI";
      /*String hostName = "localhost";
      String dbName = "study_plan";
      String userName = "defaultuser";
