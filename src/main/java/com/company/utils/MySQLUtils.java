@@ -72,7 +72,7 @@ public class MySQLUtils {
      Class.forName("com.mysql.cj.jdbc.Driver");
   
      //String connectionURL = "jdbc:mysql://localhost/study_plan?serverTimezone=Europe/Moscow&useSSL=false&useUnicode=true&characterEncoding=UTF-8";
-     String connectionURL = "jdbc:mysql://sql7.freemysqlhosting.net/sql7339540?useUnicode=true&characterEncoding=UTF-8";
+     String connectionURL = "jdbc:mysql://sql11.freemysqlhosting.net/sql11455725?useUnicode=true&characterEncoding=UTF-8";
   
      Connection conn = DriverManager.getConnection(connectionURL, userName,
              password);
